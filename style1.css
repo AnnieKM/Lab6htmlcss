@@ -1,0 +1,172 @@
+body{
+background-image: url("images/wallpaper.jpg");
+
+
+}
+	
+#header {
+	position: static;
+	background-image: url("images/header.jpg"); 
+}
+
+h1 {
+	text-transform: uppercase;
+	font-family: impact ;
+	color: #4ab0eb ;
+	letter-spacing: 4px;
+	word-spacing: 8px;
+	background: linear-gradient(to right, #ddbde8 0%, #4ab0eb 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  
+}
+
+h2{
+	font-family: papyrus;
+	color: #4ab0eb ;
+}
+
+h3{
+	text-transform: capitalize;
+	font-family: papyrus ;
+	color: #041146;
+}
+	
+
+#wrapper {
+	width: 1000px;
+	background-image: url("images/background1.jpg");
+	background-attachment: fixed;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-left: 25px;
+	padding-right: 25px;
+	}
+.aboutme {
+	 width: 800px;
+		margin: auto;
+		display: block;
+		padding: 10px; 
+	background-color:#4ab0eb;
+	height: 200px;
+	
+	}
+
+	
+.aboutmecard {
+	
+	width: 400px;
+	float: left;
+	margin-left: 30px;
+	margin-bottom: 15px;
+	border: 2px solid #446ac9;
+	border-radius: 5px;
+	padding-left:20px;
+	padding-right:20px;
+	height: 180px;
+	display: inline;
+	color: black;
+} 	
+.aboutmeimgcard {
+	
+	width: 150px;
+	float: left;
+	margin-left: 30px;
+	margin-bottom: 15px;
+	padding-left:20px;
+	padding-right:20px;
+	height: 181px;
+	display: inline;
+	color: black;
+	
+}
+#list {
+	width: 800px;
+	background-color: #cb59b8;
+	margin: auto;
+	display: block;
+	padding: 10px; 
+	}
+ 
+ #thetable{
+	 width: 550px;
+	 background-color: #cb59b8;
+	 margin: auto;
+	display: block;
+	padding: 10px;
+ }
+ 
+ 
+table {
+width : 100%;
+background-color:#75b0e5;
+}
+th{
+border: 2px solid;
+border-color : #31144a;
+padding: 15px;
+}
+td{
+border: 2px solid;
+border-color : #31144a;
+padding: 15px
+}
+
+.gallerycontainer {
+	 width: 1000px;
+	 height: 350px;
+	background-color:#75b0e5;
+	
+	}
+
+	
+.gallerycard {
+	
+	width: 280px;
+	float: left;
+	margin-left: 5px;
+	margin-bottom: 15px;
+	border: 2px solid #b72256;
+	border-radius: 5px;
+	padding-left:10px;
+	padding-right:30px;
+	height: 250px;
+	display: inline;
+	color: black;
+} 
+
+a:hover {
+	opacity:0.5;
+}
+
+#footer{
+	width:1000 px;
+	height:300 px;
+	background-color: #78f4e5;
+
+}
+#footer a{
+	 float: left;
+  color: #3c044d;
+  text-decoration: underline;
+  font-size: 14px;
+  width: 25%;
+  text-align: center; 
+}
+
+#footer a:visited{
+	
+	color: #2d0ad6;
+	
+}
+
+	
+
+
+
+
+
+		
+
+
